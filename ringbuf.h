@@ -1,6 +1,4 @@
 /*
- * name:
- * date:
  *
  * header file for ringbuf.c and ringbuf-sub.h 
  *
