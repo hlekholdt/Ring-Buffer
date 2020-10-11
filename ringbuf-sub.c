@@ -10,9 +10,6 @@
  * author: Hanna Ekholdt 
  * date: 9/6/20
  * pledge: this is my own work, unless otherwise noted
- *
- * this is a template. change "author" and continue work
- *
  * update: 9/11/20
  */
 
